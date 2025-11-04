@@ -1,6 +1,6 @@
 ---
 layout: default
-tittle: Inicio
+title: Inicio
 ---
 
 # ¡Bienvenidos mi sitio web!: Jose Pujante
