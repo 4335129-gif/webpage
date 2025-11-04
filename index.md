@@ -3,7 +3,7 @@ layaut: default
 tittle: Inicio
 ---
 
-# ¡Bienvebido a mi sitio web!: Jose Pujante
+# ¡Bienvenidos mi sitio web!: Jose Pujante
 
 Esta es una pagina de mierda creada por mi Jekyll y GitHub Pages 
 
