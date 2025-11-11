@@ -1,7 +1,14 @@
 ---
-layout: default
-title: Inicio
+layout: splash
+title: Inicioo
+header:
+  overlay_color: "#fff"
+  overlay_filter: "0"
+  overlay_image: /assets/images/LOGO_FP_SALCEDA6.jpg
+caption: "La foto la echó Perico de los palotes"
+excerpt: "Logo del centro educativo FPS"
 ---
+
 
 # ¡Bienvenidos mi sitio web!: Jose Pujante
 
